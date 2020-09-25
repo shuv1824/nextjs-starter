@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar should render without throwing an error 1`] = `
+<div>
+  <img
+    alt="avatar image"
+    src="/avatar.png"
+  />
+</div>
+`;
